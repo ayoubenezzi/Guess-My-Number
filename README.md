@@ -1,6 +1,7 @@
 # Guess-My-Number
 🎲 Guess My Number Game 🧠
 
+© Copyright by Jonas Schmedtmann. Used for learning
 Welcome to "Guess My Number," a simple yet exhilarating JavaScript project that brings the classic guessing game to life! With a combination of HTML, CSS, and JavaScript, I've created an interactive game that challenges you to guess the secret number.
 
 🚀 Features:
